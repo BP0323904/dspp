@@ -8,4 +8,4 @@ I am a **data scientist**.
 ## Education
 
 ## Projects
-![Project 1](https://medium.com/geoai/house-hunting-the-data-scientist-way-b32d93f5a42f) 
+![Project 1](https://scipy.org/about/)
