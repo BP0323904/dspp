@@ -8,4 +8,4 @@ I am a **data scientist**.
 ## Education
 
 ## Projects
-![Project 1](https://scipy.org/about/)
+[Project 1](https://scipy.org/about/)
