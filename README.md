@@ -14,12 +14,16 @@ I have completed 4 modules and demonstrated skills in the following areas:
   * Jupyter Notebooks for Python
 * Data visualisation and dashboarding
   * PowerBI dashboarding with interactive visualisations
+  * Data visuals using Python in Jupyter Notebooks
 * Data analytics
-  * linear and logistic regression modelling
+  * linear and logistic regression modelling in Python using Jupyter Notebooks
 
 ## Education
 I have done a lot of courses and I'm self taught in a lot of things. I will update this when I can think more clearly about what I would like to put out there.
+
 ## Projects
 [Clustering recipes with data from https://www.allrecipes.com/](https://github.com/BP0323904/dspp/tree/main/Allrecipes)
+  * How effectively can K-Means clustering be applied to segment recipes, based on macronutrient composition and preparation time, in order to support time-constrained individuals in making nutritionally informed choices?
 
 [Logistic Regression with Companies House Data](https://github.com/BP0323904/dspp/tree/main/Companies%20House)
+  * To what extent can company structure and ownership variables be used to predict late filing behaviour in UK companies using logistic regression?
