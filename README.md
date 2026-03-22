@@ -27,6 +27,6 @@ I have done a lot of courses and I'm self taught in a lot of things. I will upda
 
 [Logistic Regression with Companies House Data](https://github.com/BP0323904/dspp/tree/main/Companies%20House)
   * To what extent can company structure and ownership variables be used to predict late filing behaviour in UK companies using logistic regression, as an indicator of regulatory non-compliance?
-       1. [Get Data](Companies_House/Notebooks/ch_get_data.html)
-       2. [EDA and Data Cleansing](Companies_House/Notebooks/CH_EDA_and_Cleansing.html)
-       3. [Logistic Regression Modelling](Companies_House/Notebooks/CH_Logistic_Regression.html)
+       1. [Get Data](Companies_House/Notebooks/CH_Get_Data.ipynb)
+       2. [EDA and Data Cleansing](Companies_House/Notebooks/CH_EDA_and_Cleansing.ipynb)
+       3. [Logistic Regression Modelling](Companies_House/Notebooks/CH_Log_Reg_Model.ipynb)
